@@ -1,0 +1,31 @@
+.active-tab {
+  background-color: #f3aa4e;
+  height: 34px;
+  width: max-content;
+  border: none;
+  font-size: 12px;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: center;
+  border-radius: 40%;
+  cursor: pointer;
+}
+.inactive-tab {
+  background-color: transparent;
+  height: 34px;
+  width: max-content;
+  border: 1px solid #ffffff;
+  font-size: 12px;
+  font-weight: bold;
+  color: #ffffff;
+  text-align: center;
+  border-radius: 40%;
+  cursor: pointer;
+}
+.tab-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  color: white;
+}

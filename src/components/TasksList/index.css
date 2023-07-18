@@ -1,0 +1,28 @@
+.task-card {
+  height: 45px;
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #323f4b;
+  margin-bottom: 10px;
+  border-radius: 3px;
+}
+.task {
+  font-weight: bold;
+  font-size: 14px;
+  font-family: 'roboto';
+  color: #ffffff;
+  padding: 3px;
+}
+.task-button-category {
+  background-color: #f3aa4e;
+  border: none;
+  color: black;
+  height: 30px;
+  width: max-content;
+  margin-right: 5px;
+  border-radius: 40%;
+  font-weight: bold;
+  font-size: 11px;
+}
